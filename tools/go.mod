@@ -1,4 +1,4 @@
-module github.com/golang-templates/seed/build
+module github.com/a2y-d5l/gov/build
 
 go 1.22.4
 
