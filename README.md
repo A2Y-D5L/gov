@@ -1,13 +1,13 @@
-# Go Repository Template
+# Go Application Template
 
 [![Keep a Changelog](https://img.shields.io/badge/changelog-Keep%20a%20Changelog-%23E05735)](CHANGELOG.md)
-[![GitHub Release](https://img.shields.io/github/v/release/golang-templates/seed)](https://github.com/golang-templates/seed/releases)
-[![Go Reference](https://pkg.go.dev/badge/github.com/golang-templates/seed.svg)](https://pkg.go.dev/github.com/golang-templates/seed)
-[![go.mod](https://img.shields.io/github/go-mod/go-version/golang-templates/seed)](go.mod)
-[![LICENSE](https://img.shields.io/github/license/golang-templates/seed)](LICENSE)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/golang-templates/seed/build.yml?branch=main)](https://github.com/golang-templates/seed/actions?query=workflow%3Abuild+branch%3Amain)
-[![Go Report Card](https://goreportcard.com/badge/github.com/golang-templates/seed)](https://goreportcard.com/report/github.com/golang-templates/seed)
-[![Codecov](https://codecov.io/gh/golang-templates/seed/branch/main/graph/badge.svg)](https://codecov.io/gh/golang-templates/seed)
+[![GitHub Release](https://img.shields.io/github/v/release/a2y-d5l/gov)](https://github.com/a2y-d5l/gov/releases)
+[![Go Reference](https://pkg.go.dev/badge/github.com/a2y-d5l/gov.svg)](https://pkg.go.dev/github.com/a2y-d5l/gov)
+[![go.mod](https://img.shields.io/github/go-mod/go-version/a2y-d5l/gov)](go.mod)
+[![LICENSE](https://img.shields.io/github/license/a2y-d5l/gov)](LICENSE)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/a2y-d5l/gov/build.yml?branch=main)](https://github.com/a2y-d5l/gov/actions?query=workflow%3Abuild+branch%3Amain)
+[![Go Report Card](https://goreportcard.com/badge/github.com/a2y-d5l/gov)](https://goreportcard.com/report/github.com/a2y-d5l/gov)
+[![Codecov](https://codecov.io/gh/a2y-d5l/gov/branch/main/graph/badge.svg)](https://codecov.io/gh/a2y-d5l/gov)
 
 ⭐ `Star` this repository if you find it valuable and worth maintaining.
 
